@@ -6,5 +6,5 @@
 ## Team Members
 
 * Team Member 1: Brianna
-* Team Member 2: 
-* Team Member 3:
+* Team Member 2: Erica 
+* Team Member 3: Julia
